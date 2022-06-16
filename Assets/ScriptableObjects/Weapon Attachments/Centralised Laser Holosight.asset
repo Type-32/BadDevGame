@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f95203b276a02749af5a43c1ea4ae42, type: 3}
+  m_Name: Centralised Laser Holosight
+  m_EditorClassIdentifier: 
+  attachmentName: Centralized Laser Holosight
+  attachmentType: 2
+  attachmentObject: {fileID: 6663263899721822705, guid: 44f6df53c58da04499fc7dafacca16f3,
+    type: 3}
+  changesMuzzleSound: 0
+  overrideMuzzleSound: {fileID: 0}
+  changesCameraRecoil: 0
+  counterRecoilAmount: 1
+  changesCameraDefaultFOV: 1
+  useFOVMultiplier: 1
+  cameraFOVChangedAmount: 0
+  cameraFOVChangedMultiplier: 0.85

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f95203b276a02749af5a43c1ea4ae42, type: 3}
+  m_Name: Enerplasm Centrumer
+  m_EditorClassIdentifier: 
+  attachmentName: Enerplasm Centrumer
+  attachmentType: 0
+  attachmentObject: {fileID: 4276300637321657910, guid: cb96834c54e20fe448c4c74d3f48b17f,
+    type: 3}
+  changesMuzzleSound: 1
+  overrideMuzzleSound: {fileID: 8300000, guid: 5b160f4f391370c42bd5cb9e2319305e, type: 3}
+  changesCameraRecoil: 0
+  counterRecoilAmount: 0
+  changesCameraDefaultFOV: 0
+  useFOVMultiplier: 0
+  cameraFOVChangedAmount: 0
+  cameraFOVChangedMultiplier: 1
